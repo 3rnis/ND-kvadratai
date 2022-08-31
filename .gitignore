@@ -1,0 +1,5 @@
+/node_modules
+package-lock.json
+/Mano versija be borderiu
+/.vscode
+.DS_Store
